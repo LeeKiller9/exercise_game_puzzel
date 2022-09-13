@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    width: 70px;
+    height: 70px;
+}
+
+#result{
+    margin-top: 10px;
+    margin-left: 100px;
+}
